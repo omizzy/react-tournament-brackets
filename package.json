@@ -1,5 +1,5 @@
 {
-  "name": "@g-loot/react-tournament-brackets",
+  "name": "omizzy/react-tournament-brackets",
   "version": "1.0.0",
   "description": "A react component to visualize bracket leaderboards",
   "main": "dist/bundle.js",
